@@ -1,0 +1,22 @@
+{
+  "name": "vagrant-express-angular",
+  "version": "1.0.0",
+  "authors": [
+    "Haseeb Qureshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-route": "~1.4.3",
+    "foundation": "~5.5.2",
+    "svg-loaders": "~1.0.2",
+    "underscore": "~1.8.3"
+  }
+}
